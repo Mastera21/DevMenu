@@ -8,7 +8,7 @@ The missing parts of code are market with "Implement logic" or "TODO".
 
 ## Development:
 -Developed on Windows 10.\
--Project is running on Wondows only (for now).
+-Project is running on Windows only (for now).
 
 ## Run project:
 If you want to develop the project open DevMenu folder in main directory and open DevMenu.sln.\
