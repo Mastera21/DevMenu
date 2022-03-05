@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="header">
+      <UniqueIdentifier>{AE18D201-9ABA-FCD7-8375-102C6FB68328}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header\allTabs">
+      <UniqueIdentifier>{0035A519-EC02-991F-D596-0946C1037584}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header\assets">
+      <UniqueIdentifier>{F023DD4E-5CE4-5885-251F-A202919E9D61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header\filebrowser">
+      <UniqueIdentifier>{614B8ED4-4D2F-4F2A-B68F-497DA29239AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header\fonts">
+      <UniqueIdentifier>{875D30D4-73C0-BF78-1C46-F82E08888BFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header\icons">
+      <UniqueIdentifier>{F91560D4-E578-EF78-8EFE-272F7A40BBFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header\menuBar">
+      <UniqueIdentifier>{27B741A5-1385-35AB-FC18-A6D1E8851110}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header\menuLogic">
+      <UniqueIdentifier>{609E48FD-4C97-674F-75C9-4CD46121475B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header\timer">
+      <UniqueIdentifier>{1E642AD5-0AC7-B979-B34C-F22F9F8E85FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{0098A80F-6CAC-D0C0-352E-7420A101CDF1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{2DAB880B-99B4-887C-2230-9F7C8E38947C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\allTabs">
+      <UniqueIdentifier>{7FD6893B-EB8B-0231-7480-FC07E034F934}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\assets">
+      <UniqueIdentifier>{8F11E44F-7BC9-259D-E4D0-FEF8D0A7C08D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\fonts">
+      <UniqueIdentifier>{469330B5-B2FD-E42B-FB3B-96D167E5C280}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\menuBar">
+      <UniqueIdentifier>{A65826C7-120E-9FBC-9B02-999307B795C0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\menuLogic">
+      <UniqueIdentifier>{9F9BDB2A-0B5C-5761-D496-A0DE40169C3D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header\Application.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\allTabs\AllTab.h">
+      <Filter>header\allTabs</Filter>
+    </ClInclude>
+    <ClInclude Include="header\assets\Assets.h">
+      <Filter>header\assets</Filter>
+    </ClInclude>
+    <ClInclude Include="header\filebrowser\imfilebrowser.h">
+      <Filter>header\filebrowser</Filter>
+    </ClInclude>
+    <ClInclude Include="header\fonts\Fonts.h">
+      <Filter>header\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="header\icons\font.h">
+      <Filter>header\icons</Filter>
+    </ClInclude>
+    <ClInclude Include="header\icons\iconcpp.h">
+      <Filter>header\icons</Filter>
+    </ClInclude>
+    <ClInclude Include="header\icons\icons.h">
+      <Filter>header\icons</Filter>
+    </ClInclude>
+    <ClInclude Include="header\menuBar\MenuBar.h">
+      <Filter>header\menuBar</Filter>
+    </ClInclude>
+    <ClInclude Include="header\menuLogic\MenuLogic.h">
+      <Filter>header\menuLogic</Filter>
+    </ClInclude>
+    <ClInclude Include="header\tabs.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="header\timer\Timer.h">
+      <Filter>header\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imconfig.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_impl_dx9.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_impl_win32.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imguipp.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imstb_rectpack.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imstb_textedit.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imstb_truetype.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="imgui\imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_impl_dx9.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_impl_win32.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_widgets.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imguipp.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Application.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\allTabs\AllTab.cpp">
+      <Filter>src\allTabs</Filter>
+    </ClCompile>
+    <ClCompile Include="src\assets\Assets.cpp">
+      <Filter>src\assets</Filter>
+    </ClCompile>
+    <ClCompile Include="src\fonts\Fonts.cpp">
+      <Filter>src\fonts</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menuBar\MenuBar.cpp">
+      <Filter>src\menuBar</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menuLogic\MenuLogic.cpp">
+      <Filter>src\menuLogic</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

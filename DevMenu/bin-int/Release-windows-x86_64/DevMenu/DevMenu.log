@@ -1,0 +1,22 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  imguipp.cpp
+D:\source\DevMenu\DevMenu\imgui\imguipp.cpp(98,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\source\DevMenu\DevMenu\imgui\imguipp.cpp(98,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\source\DevMenu\DevMenu\imgui\imguipp.cpp(98,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\source\DevMenu\DevMenu\imgui\imguipp.cpp(98,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Application.cpp
+  AllTab.cpp
+D:\source\DevMenu\DevMenu\src\allTabs\AllTab.cpp(161,9): warning C4552: '!': result of expression not used
+  Assets.cpp
+  Fonts.cpp
+  main.cpp
+  MenuBar.cpp
+D:\source\DevMenu\DevMenu\src\menuBar\MenuBar.cpp(32,9): warning C4552: '!': result of expression not used
+  MenuLogic.cpp
+  Generating Code...
+  DevMenu.vcxproj -> D:\source\DevMenu\bin\Release-windows-x86_64\DevMenu\DevMenu.exe
