@@ -3,7 +3,7 @@
 -This is core of DevMenu/CheatMenu for games.
 
 ## Description:
--It is DevMenu/CheatMenu for games, the project is NOT FINISHED. Fell free to implement the main logic and update the code.
+-It is DevMenu/CheatMenu for games, the project is NOT FINISHED. You have to implement your specific logic for you game. Fill free to update the optimize the code.
 The missing parts of code are market with "Implement logic" or "TODO".
 
 ## Development:
