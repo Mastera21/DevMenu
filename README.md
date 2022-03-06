@@ -23,3 +23,14 @@ If someting happened with project files or cant open project files type "cmd" on
 -C++17.\
 -ImGui (Link for ImGui: https://github.com/ocornut/imgui). \
 -Premake (Link for Primake: https://premake.github.io/).
+
+## Preview
+1.
+![final_6224866067d6e3010971fb90_273475](https://user-images.githubusercontent.com/68899725/156918813-651cebcb-d498-46e9-bed0-d9c4cca68701.gif)
+2.
+![final_6224866067d6e3010971fb90_393234](https://user-images.githubusercontent.com/68899725/156918930-1820d93b-55a3-4003-83a2-27b5b4d4c792.gif)
+3.
+![final_6224866067d6e3010971fb90_420625](https://user-images.githubusercontent.com/68899725/156919908-afd459a9-5a4f-45da-b01f-dcdd8ff9fdc3.gif)
+
+
+
